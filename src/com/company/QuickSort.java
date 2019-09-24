@@ -2,6 +2,7 @@ package com.company;
 
 import java.util.Arrays;
 
+//《算法设计》
 public class QuickSort {
 
 
@@ -21,6 +22,7 @@ public class QuickSort {
                 swap(q,i, j);
             }
         }
+        System.out.println(l+".."+r+"..,x = "+x+" ");
         quick_sort(q, l, j);
         quick_sort(q, j + 1, r);
     }

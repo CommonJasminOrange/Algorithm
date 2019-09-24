@@ -3,7 +3,7 @@ package com.company;
 import java.util.Arrays;
 
 public class QuickSort2 {
-
+ //《随机快排》
     public static int partition(int[] q, int l, int r){
 
         int x = q[l];
@@ -31,6 +31,7 @@ public class QuickSort2 {
     public static void quick_sort(int q[], int l, int r) {
         if (l < r){
             int x = RandomPartition(q,l,r);
+            System.out.println(l+".."+r+"..,x = "+x+" ");
             quick_sort(q, l, x-1);
             quick_sort(q, x+1, r);
         }
@@ -47,7 +48,5 @@ public class QuickSort2 {
         int arr[] = {6,1,3,2,8,9,4};
         quick_sort(arr,0,arr.length - 1);
         System.out.println(Arrays.toString(arr));
-
-
     }
 }
