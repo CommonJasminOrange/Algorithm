@@ -2,47 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff371d6b-97f4-4a8e-9f6a-a43f45b41a1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestAutoPacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestWrappedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/Person4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TesrtPoly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/TestSuper02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP/TestEncapsulation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP/TestThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP/User3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP/User4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/TestAnoymousInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/TestInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/TestInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP2/TestStaticInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP3/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/OOP3/TestString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/Test2DimensionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/TestArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/TestArrayTableData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/TestArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/TestBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSE/arrays/findMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markdown/JVM分代垃圾回收.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markdown/垃圾回收.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/ArrayList/MyArrayList01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/ArrayList/MyArrayList02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/ArrayList/MyArrayList03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/ArrayList/MyArrayList04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/ArrayList/MyArrayList05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/ArrayList/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/LinkedList/MyLinkedList01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/Collection/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/CommonClass/TestFileTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/OO2/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/exception/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/exception/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/exception/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaSE/exception/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markdown/Collection.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/javaSE/CommonClass/TestDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/javaSE/CommonClass/TestDate.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,82 +47,131 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestWrappedClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <entry file="file://$PROJECT_DIR$/src/markdown/Collection.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="303">
+                <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestAutoPacking.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="57">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="27" column="63" lean-forward="true" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+            <state relative-caret-position="304">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestDate.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/markdown/MergeSort.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/QuickSort2.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state relative-caret-position="418">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MergeSort.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-609">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/ArrayList/TestGeneric.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,33 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dataStructure/linetable/TestOperator.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/LabelContinue.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestOperator.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestOverload.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestQiantao.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestScanner.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestSwitch.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestMethod.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestIf.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/testContinue.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestBreak.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestRecursion.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/TestRecursion01.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/javajichu/TestRecursion01.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OOP/Studet.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OOP/Student.java" />
-        <option value="$PROJECT_DIR$/src/markdown/堆栈.md" />
-        <option value="$PROJECT_DIR$/src/javaSE/OOP/User.java" />
-        <option value="$PROJECT_DIR$/src/markdown/垃圾回收.md" />
-        <option value="$PROJECT_DIR$/src/markdown/分带垃圾回收.md" />
-        <option value="$PROJECT_DIR$/src/markdown/JVM分代垃圾回收.md" />
-        <option value="$PROJECT_DIR$/src/javaSE/OOP/TestThis.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OOP/User3.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OOP/User4.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OO2/TestExtends.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OO2/TestOverride.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/OO2/TestObject.java" />
         <option value="$PROJECT_DIR$/src/javaSE/OO2/TestEquals.java" />
         <option value="$PROJECT_DIR$/src/javaSE/OO2/TestSuper.java" />
         <option value="$PROJECT_DIR$/src/javaSE/OO2/TestSuper02.java" />
@@ -205,14 +217,41 @@
         <option value="$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder2.java" />
         <option value="$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder3.java" />
         <option value="$PROJECT_DIR$/src/javaSE/CommonClass/TestDate.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/CommonClass/TestDateFormat.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/CommonClass/TestFileTree.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/CommonClass/TestFile.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/exception/Test02.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/exception/Test03.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/exception/Test04.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/collection.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestGeneric.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestList.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/Test.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/Sub.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/Hello.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/OO2/Hello.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/OO2/Sub.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/linetable/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo3.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/D恶魔￥.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo4.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo5.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork01.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork02.java" />
+        <option value="$PROJECT_DIR$/src/markdown/Collection.md" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="832" />
-    <option name="y" value="56" />
-    <option name="width" value="1296" />
-    <option name="height" value="936" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="792" />
+    <option name="y" value="116" />
+    <option name="width" value="1030" />
+    <option name="height" value="908" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -222,7 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -240,12 +278,6 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -253,23 +285,44 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="CommonClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javaSE/Collection/MyArrayList04.java" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/javaSE/Collection/MyArrayList04.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaSE.Collection.TestArrayList" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -283,13 +336,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDate">
-    <configuration name="TestAutoPacking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSE.CommonClass.TestAutoPacking" />
+  <component name="RunManager" selected="Application.MyHashMap01">
+    <configuration name="DemoWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSE.Collection.TestArrayList.DemoWork01" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSE.CommonClass.*" />
+          <option name="PATTERN" value="javaSE.Collection.TestArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSE.CommonClass.TestDate" />
+    <configuration name="DemoWork02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSE.Collection.TestArrayList.DemoWork02" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSE.CommonClass.*" />
+          <option name="PATTERN" value="javaSE.Collection.TestArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSE.CommonClass.TestStringBuilder" />
+    <configuration name="MyHashMap01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSE.Collection.Map.MyHashMap.MyHashMap01" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSE.CommonClass.*" />
+          <option name="PATTERN" value="javaSE.Collection.Map.MyHashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +376,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStringBuilder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSE.CommonClass.TestStringBuilder2" />
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSE.Collection.Map.TestMap" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSE.CommonClass.*" />
+          <option name="PATTERN" value="javaSE.Collection.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +389,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStringBuilder3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSE.CommonClass.TestStringBuilder3" />
+    <configuration name="TestMap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSE.Collection.Map.TestMap2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSE.CommonClass.*" />
+          <option name="PATTERN" value="javaSE.Collection.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +403,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestAutoPacking" />
-      <item itemvalue="Application.TestStringBuilder" />
-      <item itemvalue="Application.TestStringBuilder2" />
-      <item itemvalue="Application.TestStringBuilder3" />
-      <item itemvalue="Application.TestDate" />
+      <item itemvalue="Application.DemoWork01" />
+      <item itemvalue="Application.DemoWork02" />
+      <item itemvalue="Application.TestMap" />
+      <item itemvalue="Application.TestMap2" />
+      <item itemvalue="Application.MyHashMap01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDate" />
-        <item itemvalue="Application.TestStringBuilder3" />
-        <item itemvalue="Application.TestStringBuilder2" />
-        <item itemvalue="Application.TestStringBuilder" />
-        <item itemvalue="Application.TestAutoPacking" />
+        <item itemvalue="Application.MyHashMap01" />
+        <item itemvalue="Application.TestMap2" />
+        <item itemvalue="Application.TestMap" />
+        <item itemvalue="Application.DemoWork02" />
+        <item itemvalue="Application.DemoWork01" />
       </list>
     </recent_temporary>
   </component>
@@ -392,12 +445,19 @@
       <workItem from="1569806580136" duration="19701000" />
       <workItem from="1570013586971" duration="1190000" />
       <workItem from="1570011831679" duration="2900000" />
-      <workItem from="1570011650211" duration="6808000" />
+      <workItem from="1570011650211" duration="8100000" />
+      <workItem from="1570088409045" duration="2005000" />
+      <workItem from="1570195396719" duration="283000" />
+      <workItem from="1570194034087" duration="8869000" />
+      <workItem from="1570254603044" duration="2423000" />
+      <workItem from="1570326501260" duration="12673000" />
+      <workItem from="1570337732735" duration="3699000" />
+      <workItem from="1570339017761" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116135000" />
+    <option name="totallyTimeSpent" value="149248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,10 +469,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1019" y="47" width="1296" height="936" extended-state="0" />
+    <frame x="795" y="111" width="1030" height="908" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16828479" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3113402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,18 +480,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3466334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34625322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32957748" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22540474" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2244389" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3258427" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3242894" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,320 +507,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaSE/javajichu/LabelContinue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/javajichu/TestIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/javajichu/TestSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/markdown/MergeSort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/markdown/堆栈.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/markdown/垃圾回收.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/markdown/JVM分代垃圾回收.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="11" selection-end-column="32" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP/TestThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP/User3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP/User4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestExtends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestOverride.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../java/jdk/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="148" column="14" lean-forward="true" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestEquals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-666">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestSuper02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TestEncapsulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TesrtPoly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/arrays/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/arrays/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP2/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP2/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP2/TestInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/Person4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/OOP/TestEncapsulation2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/arrays/TestArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/arrays/Test2DimensionArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/arrays/TestArrayTableData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSE/arrays/TestBubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -786,20 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestWrappedClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestAutoPacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../java/jdk/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -821,27 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-609">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -856,31 +567,365 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/QuickSort2.java">
+    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestWrappedClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="456">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestAutoPacking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="399">
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestDateFormat.java" />
     <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="27" column="63" lean-forward="true" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        <state relative-caret-position="513">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestDate.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gg.txt" />
+    <entry file="file://$PROJECT_DIR$/Algorithm.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash.exe.stackdump">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestFileTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/QuickSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/CommonClass/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/exception/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/exception/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/collection.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaSE/exception/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java/jdk/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java/jdk/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="166" column="15" selection-start-line="166" selection-start-column="15" selection-end-line="166" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/MyArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="94" column="46" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#test01#0;class#TestList#0" />
+            <element signature="method#test02#0;class#TestList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/TesrtPoly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/OO2/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/linetable/MyArrayIndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/linetable/TestArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/linetable/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructure/linetable/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1786">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1943#1944#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2024#2025#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="36" selection-start-line="4" selection-start-column="3" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markdown/JVM分代垃圾回收.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markdown/MergeSort.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/ArrayList/TestGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/TestArrayList/DemoWork02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markdown/Collection.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="303">
+            <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Collection/Map/TestMap2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
