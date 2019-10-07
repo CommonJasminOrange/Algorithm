@@ -3,10 +3,10 @@ package com.company;
 import java.util.Arrays;
 
 //《算法设计》
-public class QuickSort {
+public class findKth {
 
 
-    public static void quick_sort(int q[], int l, int r) {
+    public static void findKth(int q[], int l, int r,int k) {
         if (l >= r) {
             return;
         }
@@ -20,8 +20,8 @@ public class QuickSort {
             }
         }
         System.out.println(l+".."+r+"..,x = "+x+" ");
-        quick_sort(q, l, j);
-        quick_sort(q, j + 1, r);
+        findKth(q, l, j,k);
+        findKth(q, j + 1, r,k-(j+1));
     }
 
     public static void swap(int[] list, int j, int k) {
@@ -31,9 +31,9 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = {6,1,3,2,8,9,4};
-        int k = 4;
-        quick_sort(arr,0,arr.length - 1);
+        int arr[] = {6,1,3,2,8,9,4,11,13};
+        int k = 8;
+        findKth(arr,0,arr.length - 1,k);
         System.out.println(Arrays.toString(arr));
         System.out.println(arr[k-1]);
 
